@@ -1,9 +1,12 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: Luke Wang
+date: 2024-04-24
 category: Jekyll
 layout: post
 ---
+
+### Email: wqtju@tju.edu.cn
+### Area: Australia
 
 This is an contact page.
