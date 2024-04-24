@@ -1,7 +1,7 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
+title: Study Field
+author: Luke Wang
+date: 2024-04024
 category: Jekyll
 layout: post
 ---
